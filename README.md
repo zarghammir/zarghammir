@@ -21,9 +21,12 @@ Every skill I use: 4 I wrote and 35 by other people, each with its author's lice
 
 **★ Picks**
 
-- **[superpowers](https://github.com/zarghammir/skills/tree/main/superpowers)**: brainstorm, plan, write tests first, debug, review *(by Jesse Vincent)*
-- **UI design**: [prototype](https://github.com/zarghammir/skills/tree/main/emilkowalski/prototype) *(Emil Kowalski)* · [impeccable](https://github.com/pbakaus/impeccable) *(pbakaus)* · [frontend-design](https://github.com/zarghammir/skills/tree/main/anthropic/frontend-design) *(Anthropic)*. Several truly different versions to choose from.
-- **[five-distinct-test](https://github.com/zarghammir/skills/tree/main/mine/five-distinct-test)**: for voice AI testing. 5 different caller lines per step must all route correctly, and one failure resets the count *(mine)*
-- **[pr-plain-words](https://github.com/zarghammir/skills/tree/main/mine/pr-plain-words)** · **[pr-like-a-pro](https://github.com/zarghammir/skills/tree/main/mine/pr-like-a-pro)**: pull requests a non-coder can read *(mine)*
-- **[graphify](https://github.com/safishamsi/graphify)**: turns a codebase into a map you can ask questions *(Safi Shamsi)*
+- [superpowers](https://github.com/zarghammir/skills/tree/main/superpowers)
+- [prototype](https://github.com/zarghammir/skills/tree/main/emilkowalski/prototype)
+- [impeccable](https://github.com/pbakaus/impeccable)
+- [frontend-design](https://github.com/zarghammir/skills/tree/main/anthropic/frontend-design)
+- [five-distinct-test](https://github.com/zarghammir/skills/tree/main/mine/five-distinct-test)
+- [pr-plain-words](https://github.com/zarghammir/skills/tree/main/mine/pr-plain-words)
+- [pr-like-a-pro](https://github.com/zarghammir/skills/tree/main/mine/pr-like-a-pro)
+- [graphify](https://github.com/safishamsi/graphify)
 
