@@ -5,7 +5,7 @@
   <img alt="My GitHub contributions in the last year" src="assets/contributions-light.svg">
 </picture>
 
-I run a tiny software company where every employee is an AI agent. They plan, build and review each other's work. I approve what ships and buy nobody coffee.
+Me, my ideas, and an unreasonable number of AI agents
 
 ---
 
