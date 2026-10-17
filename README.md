@@ -1,6 +1,11 @@
 # Hi, I'm Zargham
 
-I build AI products with a small team of AI agents. One plans the work, some build it, and others review it. I own the product and approve what ships.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img alt="My GitHub contributions in the last year" src="assets/contributions-light.svg">
+</picture>
+
+I run a tiny software company where every employee is an AI agent. They plan, build and review each other's work. I approve what ships and buy nobody coffee.
 
 ---
 
