@@ -4,7 +4,7 @@ I build AI products with a small team of AI agents. One plans the work, some bui
 
 ---
 
-## Projects
+## For Fun Projects
 
 - **[AI Radar](https://github.com/zarghammir/ai-radar)**: a morning brief plus a live radar of AI news, research and releases. You can host it yourself, and it needs no paid API. [Live demo](https://ai-radar-blue-delta.vercel.app)
 - **Handpan lessons website**: a website I built for a handpan teacher. Students book lessons, pay and follow their progress in their own dashboard. [medyhandpan.com](https://www.medyhandpan.com)
