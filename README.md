@@ -22,11 +22,12 @@ How I work with agents: a planning session hands out tickets, builder sessions w
 
 ### 📁 [skills](https://github.com/zarghammir/skills)
 
-Every skill I use: 4 I wrote and 35 by other people, each with its author's licence, plus links to 5 plugins and tools. Open the folder to see them all.
+Every skill I use: 5 I wrote and 35 by other people, each with its author's licence, plus links to 5 plugins and tools. Open the folder to see them all.
 
 **★ Picks**
 
 - [superpowers](https://github.com/zarghammir/skills/tree/main/superpowers)
+- [ui-standards](https://github.com/zarghammir/skills/tree/main/mine/ui-standards)
 - [prototype](https://github.com/zarghammir/skills/tree/main/emilkowalski/prototype)
 - [impeccable](https://github.com/pbakaus/impeccable)
 - [frontend-design](https://github.com/zarghammir/skills/tree/main/anthropic/frontend-design)
