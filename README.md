@@ -36,11 +36,3 @@ Every skill I use: 5 I wrote and 35 by other people, each with its author's lice
 - [pr-like-a-pro](https://github.com/zarghammir/skills/tree/main/mine/pr-like-a-pro)
 - [graphify](https://github.com/safishamsi/graphify)
 
-A dashboard built with [ui-standards](https://github.com/zarghammir/skills/tree/main/mine/ui-standards), plus the polish from Emil Kowalski's design skill. The shop and its numbers are made up.
-
-<a href="https://github.com/zarghammir/skills/tree/main/mine/ui-standards">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ui-standards-dashboard-dark.png">
-    <img alt="A coffee shop dashboard built with ui-standards: a revenue line chart with its hover box, a sales-by-channel ring chart, an orders bar chart, a recent orders table and a dark to-do card" src="assets/ui-standards-dashboard-light.png">
-  </picture>
-</a>
