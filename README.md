@@ -13,6 +13,7 @@ Me, my ideas, and an unreasonable number of AI agents
 
 - **[AI Radar](https://github.com/zarghammir/ai-radar)**: a morning brief plus a live radar of AI news, research and releases. You can host it yourself, and it needs no paid API. [Live demo](https://ai-radar-blue-delta.vercel.app)
 - **Handpan lessons website**: a website I built for a handpan teacher. Students book lessons, pay and follow their progress in their own dashboard. [medyhandpan.com](https://www.medyhandpan.com)
+- **[Open CMMS](https://github.com/zarghammir/open-cmms)**: a maintenance management system for facilities, built to the standards of a Canadian government tender. It works in English and French, works offline, and is tested for accessibility. [Live demo](https://workaxis-phi.vercel.app)
 
 ---
 
