@@ -25,11 +25,16 @@ How I work with agents: a planning session hands out tickets, builder sessions w
 
 Every skill I use: 7 I wrote and 35 by other people, each with its author's licence, plus links to 5 plugins and tools. Open the folder to see them all.
 
+### 📁 [hooks](https://github.com/zarghammir/hooks)
+
+Hooks run by themselves, so there's nothing to remember in each window.
+
 **★ Picks**
 
 - [superpowers](https://github.com/zarghammir/skills/tree/main/superpowers)
 - [ui-standards](https://github.com/zarghammir/skills/tree/main/mine/ui-standards)
 - [agent-team-playbook](https://github.com/zarghammir/skills/tree/main/mine/agent-team-playbook)
+- [clean-desk](https://github.com/zarghammir/hooks/tree/main/clean-desk)
 - [prototype](https://github.com/zarghammir/skills/tree/main/emilkowalski/prototype)
 - [impeccable](https://github.com/pbakaus/impeccable)
 - [frontend-design](https://github.com/zarghammir/skills/tree/main/anthropic/frontend-design)
@@ -37,11 +42,3 @@ Every skill I use: 7 I wrote and 35 by other people, each with its author's lice
 - [pr-plain-words](https://github.com/zarghammir/skills/tree/main/mine/pr-plain-words)
 - [pr-like-a-pro](https://github.com/zarghammir/skills/tree/main/mine/pr-like-a-pro)
 - [graphify](https://github.com/safishamsi/graphify)
-
-### 📁 [hooks](https://github.com/zarghammir/hooks)
-
-Hooks run by themselves, so there's nothing to remember in each window.
-
-**★ Picks**
-
-- [clean-desk](https://github.com/zarghammir/hooks/tree/main/clean-desk)
