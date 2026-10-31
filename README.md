@@ -21,13 +21,24 @@ Me, my ideas, and an unreasonable number of AI agents
 
 How I work with agents: a planning session hands out tickets, builder sessions write the code, reviewer sessions check it, and nothing merges until the tests pass.
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 📁 [skills](https://github.com/zarghammir/skills)
 
 Every skill I use: 7 I wrote and 35 by other people, each with its author's licence, plus links to 5 plugins and tools. Open the folder to see them all.
 
+</td>
+<td valign="top" width="50%">
+
 ### 📁 [hooks](https://github.com/zarghammir/hooks)
 
 Hooks run by themselves, so there's nothing to remember in each window.
+
+</td>
+</tr>
+</table>
 
 **★ Picks**
 
