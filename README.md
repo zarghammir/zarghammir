@@ -30,7 +30,7 @@ Every skill I use: 7 I wrote and 35 by other people, each with its author's lice
 - [superpowers](https://github.com/zarghammir/skills/tree/main/superpowers)
 - [ui-standards](https://github.com/zarghammir/skills/tree/main/mine/ui-standards)
 - [agent-team-playbook](https://github.com/zarghammir/skills/tree/main/mine/agent-team-playbook)
-- [now-page](https://github.com/zarghammir/skills/tree/main/hooks/now-page)
+- [clean-desk](https://github.com/zarghammir/skills/tree/main/hooks/clean-desk)
 - [prototype](https://github.com/zarghammir/skills/tree/main/emilkowalski/prototype)
 - [impeccable](https://github.com/pbakaus/impeccable)
 - [frontend-design](https://github.com/zarghammir/skills/tree/main/anthropic/frontend-design)
