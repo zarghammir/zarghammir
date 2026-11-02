@@ -46,6 +46,7 @@ Hooks run by themselves, so there's nothing to remember in each window.
 - [ui-standards](https://github.com/zarghammir/skills/tree/main/mine/ui-standards)
 - [agent-team-playbook](https://github.com/zarghammir/skills/tree/main/mine/agent-team-playbook)
 - [clean-desk](https://github.com/zarghammir/hooks/tree/main/clean-desk)
+- [lean-lanes](https://github.com/zarghammir/hooks/tree/main/lean-lanes)
 - [prototype](https://github.com/zarghammir/skills/tree/main/emilkowalski/prototype)
 - [impeccable](https://github.com/pbakaus/impeccable)
 - [frontend-design](https://github.com/zarghammir/skills/tree/main/anthropic/frontend-design)
