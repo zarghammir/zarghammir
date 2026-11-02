@@ -27,7 +27,7 @@ How I work with agents: a planning session hands out tickets, builder sessions w
 
 ### 📁 [skills](https://github.com/zarghammir/skills)
 
-Every skill I use: 7 I wrote and 47 by other people, each with its author's licence, plus links to 5 plugins and tools. Open the folder to see them all.
+Every skill I use: 7 I wrote and 48 by other people, each with its author's licence, plus links to 5 plugins and tools. Open the folder to see them all.
 
 </td>
 <td valign="top" width="50%">
